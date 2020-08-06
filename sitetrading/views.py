@@ -25,7 +25,7 @@ def index(request):
 
 
 def portfolio_details(request):
-   return render(request, "sitetrading/portfolio_details.html", {})
+   return render(request, "sitetrading/portfoliodetails.html", {})
 
 
 
